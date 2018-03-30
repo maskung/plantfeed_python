@@ -32,8 +32,8 @@ GPIO.setup(4, GPIO.OUT, initial=GPIO.HIGH)
 ### การติดตั้งและใช้งาน
 
 1.ดาวน์โหลดโปรแกรม plantfeed.py ลงที่ไดเรคทอรีที่ท่านต้องการ
-2. #sudo chmod +x plantfeed.py
-3. ./plantfeed.py
+2.#sudo chmod +x plantfeed.py
+3../plantfeed.py
 การเรียกใช้งานโปรแกรม 
 
 ## ผู้เขียน
